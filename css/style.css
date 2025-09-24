@@ -1,0 +1,24 @@
+
+/*
+.inter-<uniquifier> {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+*/  
+
+button {
+    background-color: transparent;
+    border: 1px solid black;
+}
+
+.login-btn {
+    width: 180px;
+    height: 50px 
+}
+
+.rent-btn {
+    width: 400px;
+    height: 100px 
+}
